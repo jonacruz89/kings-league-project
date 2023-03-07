@@ -12,11 +12,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#289](https://github.com/midudev/kings-league-project/pull/289) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-2. ❗️ Closed issue [#318](https://github.com/midudev/kings-league-project/issues/318) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-3. 🎉 Merged PR [#322](https://github.com/midudev/kings-league-project/pull/322) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-4. ❌ Closed PR [#325](https://github.com/midudev/kings-league-project/pull/325) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-5. 🎉 Merged PR [#331](https://github.com/midudev/kings-league-project/pull/331) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
+1. 🎉 Merged PR [#43](https://github.com/jonacruz89/loro/pull/43) in [jonacruz89/loro](https://github.com/jonacruz89/loro)
+2. 🎉 Merged PR [#42](https://github.com/jonacruz89/loro/pull/42) in [jonacruz89/loro](https://github.com/jonacruz89/loro)
+3. ❌ Closed PR [#41](https://github.com/jonacruz89/loro/pull/41) in [jonacruz89/loro](https://github.com/jonacruz89/loro)
+4. 🎉 Merged PR [#40](https://github.com/jonacruz89/loro/pull/40) in [jonacruz89/loro](https://github.com/jonacruz89/loro)
+5. 🎉 Merged PR [#37](https://github.com/jonacruz89/loro/pull/37) in [jonacruz89/loro](https://github.com/jonacruz89/loro)
 <!--END_SECTION:activity-->
 
 
